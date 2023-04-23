@@ -1,4 +1,4 @@
-# Ontology_KGE
+# Knowledge Graph Embeddings for Ontologies
 
 By Henry Bosch, Filippos Nakas, and Max White as part of the Stanford CS224W course project
 
